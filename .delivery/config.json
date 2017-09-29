@@ -7,6 +7,10 @@
   "delivery-truck": {
     "lint": {
       "enable_cookstyle": true
+    },
+    "publish": {
+      "chef_server": "true",
+      "supermarket": "https://supermarket.devfwh.lan"
     }
   },
   "skip_phases": [],
